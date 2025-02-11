@@ -56,7 +56,7 @@ function First() {
         </div>
       </div> 
       <div className='xl:my-auto h-68  w-[500px]  lg:mx-50 xl:mx-auto lg:h-auto md:w-[400px] lg:w-[400px] xl:w-[500px]'>
-        <img id='flip-image'  src="\public\adal.jpg" alt="A:Malik Img" className='rounded-full  cursor-none' />
+        <img id='flip-image'  src="./adal.jpg" alt="A:Malik Img" className='rounded-full  cursor-none' />
       </div>
     </div>
       </motion.div>
