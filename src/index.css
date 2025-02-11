@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,400;0,500;1,400;1,600&family=Vesper+Libre:wght@900&display=swap');
+
+@import "tailwindcss";
+
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    @apply min-h-screen  bg-gradient-to-r from-blue-300 to-blue-500
+}
+
+.span-color {
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-amber-950 to-purple-500  inline-block
+}
+
+.bg-span-color {
+    @apply  bg-gradient-to-r from-amber-950 to-purple-500  inline-block
+}
+
+.text{
+  @apply text-transparent bg-clip-text bg-gradient-to-r from-yellow-600 to-yellow-500;
+}
+
+
+/* @keyframes flip {
+    from {
+      transform: rotateY(0deg);
+    }
+    to {
+      transform: rotateY(360deg);
+    }
+  }
+  
+  #flip-image {
+    transition: transform 1s;
+  }
+  
+  #flip-image.flipped {
+    animation: flip 1s forwards;
+  }
+   */
