@@ -23,7 +23,7 @@ body{
 }
 
 
-/* @keyframes flip {
+ @keyframes flip {
     from {
       transform: rotateY(0deg);
     }
@@ -39,4 +39,3 @@ body{
   #flip-image.flipped {
     animation: flip 1s forwards;
   }
-   */
