@@ -55,7 +55,7 @@ function Contact() {
       <motion.div
         initial={{ opacity: 0, x: 50 }}
         whileInView={{ opacity: 1, x: 0 }}
-        viewport={{ once: false, amount: 0.5 }}
+        viewport={{ once: false, amount: 0.2 }}
         transition={{ duration: 1 }}
       >
         <h2 className='text-4xl font-bold leading-tight span-color'>Contact Me</h2>
