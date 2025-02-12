@@ -47,7 +47,7 @@ function First() {
           I am  A:Malik, having 2+ years experience in web development
         </p>
         <div className='my-8 flex flex-row'>
-          <a href="/" className='px-6 py-3 md:w-full  rounded-xl mr-4
+          <a href="/Malik Resume.pdf" target='_blank' className='px-6 py-3 md:w-full  rounded-xl mr-4
           bg-gradient-to-br from-amber-950 to-purple-500 text-center  text-white'>
             Download CV
           </a>
