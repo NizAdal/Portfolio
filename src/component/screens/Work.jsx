@@ -19,7 +19,7 @@ function Work() {
                 <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden
                 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
                 mx-auto content-div h-[200px] bg-cover relative'>
-                    <img src="" alt=""  />
+                    <img src="./Nizam.JPG" alt="NEW image"  />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70
                 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-white tracking-wider ml-7'>Nizam Eduction Welfare(NEW) <br/> In React </span>
