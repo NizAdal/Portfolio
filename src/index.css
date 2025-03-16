@@ -7,7 +7,7 @@ html {
 }
 
 body{
-    @apply min-h-screen  bg-gradient-to-r from-blue-300 to-blue-500
+    @apply min-h-screen  bg-gradient-to-r from-blue-300 to-blue-500 overflow-x-hidden;
 }
 
 .span-color {
