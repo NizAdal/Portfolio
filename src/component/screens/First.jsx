@@ -14,7 +14,7 @@ function First() {
       <motion.div 
       initial={{ opacity: 0, y: -50}}
       whileInView={{ opacity:1, y: 0}}
-      viewport={{ once: false, amount: 0.5 }}
+      viewport={{ once: true, amount: 0.5 }}
       transition={{ duration: 1}}      
       >
     <div className='flex flex-row ml-3  lg:mt-3 mt-5  md:mt-16  justify-between items-center  xl:gap-8 xl:max-w-[1200px] lg:h-[70vh] lg:w-[75rem] mx-2  lg:mx-36 md:mx-20 2xl:mx-80 '>
