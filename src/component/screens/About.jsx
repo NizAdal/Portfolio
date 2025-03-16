@@ -6,7 +6,7 @@ function About() {
       <motion.div 
       initial={{ opacity: 0, x: -50}}
       whileInView={{ opacity:1, x: 0}}
-      viewport={{ once: false, amount: 0.2 }}
+      viewport={{ once: true, amount: 0.2 }}
       transition={{ duration: 1}} 
       >
         <div className='md:grid md:grid-cols-2 sm:py-16'>
