@@ -13,7 +13,7 @@ function App() {
   return (
     <>
        <Toaster />
-      <div className=' flex flex-col item-center justify-center  text-black '>
+      <div className=' flex flex-col item-center justify-center  text-black scroll-smooth '>
        <Navbar/> 
        <First/>
        <About/>
