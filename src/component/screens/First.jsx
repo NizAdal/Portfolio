@@ -26,6 +26,8 @@ function First() {
         <span className='inline-block w-[200px] text-xl  md:w-[400px] lg:text-5xl md:text-2xl'>
         <TypeAnimation 
         sequence={[
+          "Data Analyst",
+          1000,
           "React Dev",
           1000,
           "Django (DRF) Dev",
@@ -44,7 +46,7 @@ function First() {
         </span>
         </h1>
         <p className='text-white leading-relaxed antialiased  sm:text-lg my-6 lg:text-xl w-[200px]  md:w-[400px]'>
-          I am  A:Malik, having 2+ years experience in web development
+          I am  A:Malik, having 3+ years experience in web development
         </p>
         <div className='my-8 flex flex-row'>
           <a href="/Malik Resume.pdf" target='_blank' className='px-6 py-3 md:w-full  rounded-xl mr-4
