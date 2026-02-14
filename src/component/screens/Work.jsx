@@ -51,10 +51,10 @@ function Work() {
                 <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden
                 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
                 mx-auto content-div h-[200px] bg-cover relative'>
-                    <img src="./customer behavior.png" alt="Customer Behavior Dashboard" className="w-full h-full object-cover" />
+                    <img src="./customer behavior .png" alt="Customer Behavior Dashboard" className="w-full h-full object-cover" />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70
                 absolute inset-0 flex flex-col justify-center items-center'>
-                    <span className='text-2xl font-bold text-white tracking-wider ml-7'>Nizam Eduction Welfare(NEW) <br/> In React </span>
+                    <span className='text-2xl font-bold text-white tracking-wider ml-7'>Customer Behavior <br/> Project </span>
                     <a href="https://github.com/NizAdal/customer_shopping_behavior_analysis" target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2
                          text-gray-700 font-bold text-lg bg-white cursor-pointer'>
@@ -67,10 +67,10 @@ function Work() {
                 <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden
                 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
                 mx-auto content-div h-[200px] bg-cover relative'>
-                    <img src="./Dashboard" alt="Merchant Sales Dashboard" className="w-full h-full object-cover" />
+                    <img src="./Dashboard.png" alt="Merchant Sales Dashboard" className="w-full h-full object-cover" />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70
                 absolute inset-0 flex flex-col justify-center items-center'>
-                    <span className='text-2xl font-bold text-white tracking-wider ml-7'>Nizam Eduction Welfare(NEW) <br/> In React </span>
+                    <span className='text-2xl font-bold text-white tracking-wider ml-7'>Murchant Sales <br/> Project </span>
                     <a href="https://github.com/NizAdal/merchant-sales-analysis-sql-python-powerbi" target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2
                          text-gray-700 font-bold text-lg bg-white cursor-pointer'>
