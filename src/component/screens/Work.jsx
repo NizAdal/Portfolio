@@ -35,18 +35,34 @@ function Work() {
                 <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden
                 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
                 mx-auto content-div h-[200px] bg-cover relative'>
-                    <img src="" alt="" layout="fill" objectFit="cover" />
+                    <img src="./Nizam.JPG" alt="NEW image" layout="fill" objectFit="cover" />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70
                 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-white tracking-wider ml-7'>Nizam Eduction Welfare(NEW) <br/>In Django</span>
-                    <a href="" target='_blank'>
+                    <a href="https://github.com/NizAdal/newa-python" target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2
                         bg-white text-gray-700 font-bold text-lg cursor-pointer'>
-                            Live
+                            Check Code
                         </button>
                     </a>
                 </div>    
                 </div>
+                <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden
+                shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
+                mx-auto content-div h-[200px] bg-cover relative'>
+                    <img src="./Nizam.JPG" alt="NEW image" className="w-full h-full object-cover" />
+                <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70
+                absolute inset-0 flex flex-col justify-center items-center'>
+                    <span className='text-2xl font-bold text-white tracking-wider ml-7'>Nizam Eduction Welfare(NEW) <br/> In React </span>
+                    <a href="https://github.com/NizAdal/merchant-sales-analysis-sql-python-powerbi" target='_blank'>
+                        <button className='text-center rounded-lg px-4 py-3 m-2
+                         text-gray-700 font-bold text-lg bg-white cursor-pointer'>
+                            Check Code
+                        </button>
+                    </a>
+                </div>    
+                </div>
+
             </div>
         </motion.div>
         </div>
